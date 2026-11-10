@@ -20,6 +20,25 @@
 
 ---
 
+### 🌍 Interactive 3D: Threat Globe
+
+<div align="center">
+  <a href="https://lasmeldas.github.io/threat-globe-3d/">
+    <img src="https://raw.githubusercontent.com/lasmeldas/threat-globe-3d/main/docs/globe.gif" alt="A rotating 3D dot-matrix Earth with red simulated attack arcs flying between cities and green rings where they are blocked" width="380" />
+  </a>
+  <br />
+  <sub>A draggable 3D Earth of <b>simulated</b> cyber-attack traffic, built with Three.js. <b>Click it to open the live demo.</b></sub>
+</div>
+
+<p align="center">
+  <a href="https://lasmeldas.github.io/threat-globe-3d/"><b>🌍 Threat Globe (live)</b></a> &nbsp;·&nbsp;
+  <a href="https://lasmeldas.github.io/cyber-portfolio-3d/"><b>🧊 3D Portfolio (live)</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/lasmeldas/authwatch">🔎 authwatch</a> &nbsp;·&nbsp;
+  <a href="https://github.com/lasmeldas/passguard">🔐 passguard</a>
+</p>
+
+---
+
 ### 🏆 GitHub Achievements & Trophies
 
 <div align="center">
