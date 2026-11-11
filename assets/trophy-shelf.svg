@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1010" height="204" viewBox="0 0 1010 204" role="img" aria-label="Trophy shelf of project milestones: 4 projects with tests and CI, 91 automated tests, 8 ML algorithms checked against scikit-learn, 2 interactive 3D demos, 3 areas, 0 dependencies in devtoolbox">
+<style>text{font-family:ui-monospace,Menlo,Consolas,monospace}.n{font-size:40px;font-weight:700;text-anchor:middle}.l{font-size:11px;fill:#94a3b8;text-anchor:middle}.t{font-size:12px;fill:#e2e8f0;text-anchor:middle;letter-spacing:.08em}</style>
+<rect width="1010" height="204" rx="14" fill="#0b1426"/><rect x="0.5" y="0.5" width="1009" height="189" rx="14" fill="none" stroke="#1d3b5f"/>
+<text class="t" x="505.0" y="28">TROPHY SHELF · REAL MILESTONES</text>
+<rect x="20" y="46" width="150" height="116" rx="10" fill="#0f1b33" stroke="#00ffa3" stroke-opacity=".5"/>
+<text class="n" x="95.0" y="96" fill="#00ffa3">4</text>
+<text class="l" x="95.0" y="118">projects with</text>
+<text class="l" x="95.0" y="133">tests + CI</text>
+<rect x="184" y="46" width="150" height="116" rx="10" fill="#0f1b33" stroke="#38bdf8" stroke-opacity=".5"/>
+<text class="n" x="259.0" y="96" fill="#38bdf8">91</text>
+<text class="l" x="259.0" y="118">automated tests</text>
+<rect x="348" y="46" width="150" height="116" rx="10" fill="#0f1b33" stroke="#ffb86b" stroke-opacity=".5"/>
+<text class="n" x="423.0" y="96" fill="#ffb86b">8</text>
+<text class="l" x="423.0" y="118">ML algorithms</text>
+<text class="l" x="423.0" y="133">checked vs</text>
+<text class="l" x="423.0" y="148">scikit-learn</text>
+<rect x="512" y="46" width="150" height="116" rx="10" fill="#0f1b33" stroke="#a78bfa" stroke-opacity=".5"/>
+<text class="n" x="587.0" y="96" fill="#a78bfa">2</text>
+<text class="l" x="587.0" y="118">interactive 3D</text>
+<text class="l" x="587.0" y="133">demos</text>
+<rect x="676" y="46" width="150" height="116" rx="10" fill="#0f1b33" stroke="#ff5470" stroke-opacity=".5"/>
+<text class="n" x="751.0" y="96" fill="#ff5470">3</text>
+<text class="l" x="751.0" y="118">areas: dev · ML ·</text>
+<text class="l" x="751.0" y="133">security</text>
+<rect x="840" y="46" width="150" height="116" rx="10" fill="#0f1b33" stroke="#f472b6" stroke-opacity=".5"/>
+<text class="n" x="915.0" y="96" fill="#f472b6">0</text>
+<text class="l" x="915.0" y="118">dependencies in</text>
+<text class="l" x="915.0" y="133">devtoolbox</text>
+<text class="l" x="505.0" y="192">counted from my own repositories · updated by hand</text></svg>

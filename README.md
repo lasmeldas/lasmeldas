@@ -34,7 +34,9 @@
   <a href="https://lasmeldas.github.io/threat-globe-3d/"><b>🌍 Threat Globe (live)</b></a> &nbsp;·&nbsp;
   <a href="https://lasmeldas.github.io/cyber-portfolio-3d/"><b>🧊 3D Portfolio (live)</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/lasmeldas/authwatch">🔎 authwatch</a> &nbsp;·&nbsp;
-  <a href="https://github.com/lasmeldas/passguard">🔐 passguard</a>
+  <a href="https://github.com/lasmeldas/passguard">🔐 passguard</a> &nbsp;·&nbsp;
+  <a href="https://github.com/lasmeldas/ml-from-scratch">🧠 ml-from-scratch</a> &nbsp;·&nbsp;
+  <a href="https://lasmeldas.github.io/devtoolbox/">🧰 devtoolbox (live)</a>
 </p>
 
 ---
@@ -42,6 +44,8 @@
 ### 🏆 GitHub Achievements & Trophies
 
 <div align="center">
+  <img src="assets/trophy-shelf.svg" alt="Trophy shelf: 4 projects with tests and CI, 91 automated tests, 8 ML algorithms checked against scikit-learn, 2 interactive 3D demos, 3 areas, 0 dependencies in devtoolbox" />
+  <br />
   <img src="https://github-profile-trophy.vercel.app/?username=lasmeldas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
