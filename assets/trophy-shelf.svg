@@ -7,7 +7,7 @@
 <text class="l" x="95.0" y="118">projects with</text>
 <text class="l" x="95.0" y="133">tests + CI</text>
 <rect x="184" y="46" width="150" height="116" rx="10" fill="#0f1b33" stroke="#38bdf8" stroke-opacity=".5"/>
-<text class="n" x="259.0" y="96" fill="#38bdf8">91</text>
+<text class="n" x="259.0" y="96" fill="#38bdf8">279</text>
 <text class="l" x="259.0" y="118">automated tests</text>
 <rect x="348" y="46" width="150" height="116" rx="10" fill="#0f1b33" stroke="#ffb86b" stroke-opacity=".5"/>
 <text class="n" x="423.0" y="96" fill="#ffb86b">8</text>

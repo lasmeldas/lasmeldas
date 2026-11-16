@@ -44,7 +44,7 @@
 ### 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <img src="assets/trophy-shelf.svg" alt="Trophy shelf: 4 projects with tests and CI, 91 automated tests, 8 ML algorithms checked against scikit-learn, 2 interactive 3D demos, 3 areas, 0 dependencies in devtoolbox" />
+  <img src="assets/trophy-shelf.svg" alt="Trophy shelf: 4 projects with tests and CI, 279 automated tests, 8 ML algorithms checked against scikit-learn, 2 interactive 3D demos, 3 areas, 0 dependencies in devtoolbox" />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=lasmeldas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
