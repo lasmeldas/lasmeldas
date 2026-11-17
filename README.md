@@ -37,7 +37,7 @@
   <a href="https://github.com/lasmeldas/authwatch">🔎 authwatch</a> &nbsp;·&nbsp;
   <a href="https://github.com/lasmeldas/passguard">🔐 passguard</a> &nbsp;·&nbsp;
   <a href="https://github.com/lasmeldas/ml-from-scratch">🧠 ml-from-scratch</a> &nbsp;·&nbsp;
-  <a href="https://lasmeldas.github.io/devtoolbox/">🧰 devtoolbox (live)</a>
+  <a href="https://lasmeldas.github.io/cyber-portfolio-3d/devtoolbox/">🧰 devtoolbox (live)</a>
 </p>
 
 ---
