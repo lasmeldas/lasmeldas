@@ -14,6 +14,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
   [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarekegnbamlak@gmail.com)
   [![EthioPost Live Demo](https://img.shields.io/badge/Live%20Demo-EthioPost%20ELMS-2C2E7B?style=for-the-badge&logo=vercel&logoColor=F8AC19)](https://ethiopost-library.vercel.app)
+  [![3D Portfolio](https://img.shields.io/badge/3D%20Portfolio-Live-00ffa3?style=for-the-badge&logo=threedotjs&logoColor=black)](https://lasmeldas.github.io/cyber-portfolio-3d/)
   [![Recommendation Letter](https://img.shields.io/badge/Official%20Letter-EthioPost%20Recommendation-2E7D32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/ethiopost-recommendation-letter.pdf)
 
 </div>
@@ -38,6 +39,16 @@
   <a href="https://github.com/lasmeldas/ml-from-scratch">🧠 ml-from-scratch</a> &nbsp;·&nbsp;
   <a href="https://lasmeldas.github.io/devtoolbox/">🧰 devtoolbox (live)</a>
 </p>
+
+---
+
+### 🧭 What I Build
+
+| 💻 Development | 🧠 Machine Learning | 🛡️ Security |
+| --- | --- | --- |
+| [**devtoolbox**](https://github.com/lasmeldas/devtoolbox): 8 browser tools, 0 dependencies, 69 tests | [**ml-from-scratch**](https://github.com/lasmeldas/ml-from-scratch): 8 NumPy algorithms, 161 tests, checked against scikit-learn | [**authwatch**](https://github.com/lasmeldas/authwatch): SSH brute-force detection from auth logs |
+| [**ELMS**](https://ethiopost-library.vercel.app): library management system built at EthioPost | [**PhishGuard-AI**](https://github.com/lasmeldas/PhishGuard-AI): phishing URL classifier behind a FastAPI service | [**passguard**](https://github.com/lasmeldas/passguard): offline password analyzer with a private breach check |
+| [**3D portfolio**](https://lasmeldas.github.io/cyber-portfolio-3d/): Three.js, no framework | | [**SentinelScan**](https://github.com/lasmeldas/SentinelScan): async port scanner and TLS audit |
 
 ---
 
